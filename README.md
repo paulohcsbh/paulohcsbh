@@ -15,6 +15,7 @@
   <img width='40px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg'/>
   <img width='40px' src='https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png'/>
   <img width='40px' src='https://avatars.githubusercontent.com/u/17219288?s=200&v=4'/> 
+  <img width='40px'              src='https://camo.githubusercontent.com/62089edec0ee40bb26b3bf5f973b14d7f8e4b4e942f115cde5b9a5f9c0ca3382/687474703a2f2f7365656b6c6f676f2e636f6d2f696d616765732f4a2f6a6573742d6c6f676f2d463939303145424246372d7365656b6c6f676f2e636f6d2e706e67'/>
   <img width='40px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg'/>
 </div>
 
