@@ -1,6 +1,6 @@
 ## Olá, eu sou o Paulo Cardoso!
  ---
->#### *"A tecnologia move o mundo." Steve Jobs*
+>#### *"A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original." Albert Einstein*
  <img  width='360px' height='180px' margin='10px' src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"/>
 
 ## Sobre Mim
@@ -34,6 +34,5 @@
 ---
 <div display='flex'>  
   <img width='60px' src='https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png'/> 
-  <img width='50px' src='https://www.mundodocker.com.br/wp-content/uploads/2015/06/docker_facebook_share.png'/>
- 
+  <img width='50px' src='https://www.mundodocker.com.br/wp-content/uploads/2015/06/docker_facebook_share.png'/> 
 </div>
