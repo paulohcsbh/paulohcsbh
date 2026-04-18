@@ -1,10 +1,11 @@
 ## Olá, eu sou o Paulo Cardoso! 👋
 
-🎓 Estudante de Engenharia de Controle e Automação @ UFMG
+🎓 Estudante de Engenharia de Controle e Automação - UFMG
+
 Sou um entusiasta da tecnologia que transita entre o desenvolvimento de software robusto e o controle de processos industriais. Acredito que a base teórica sólida é o que permite uma evolução técnica segura e objetiva.
 
 ## 🛠️ Tecnologias e Ferramentas
-Desenvolvimento Web Frontend
+Desenvolvimento Web
 
 Frontend: React, HTML5, CSS3, JavaScript (ES6+).
 
